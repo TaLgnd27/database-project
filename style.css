@@ -1,0 +1,23 @@
+.primary {
+    background-color: #2D333C;
+    color: #DCDEDF;
+}
+.secondary{
+    background-color: #1F3F5F;
+    color: #DCDEDF;
+}
+.header {
+    background-color: #171D25;
+    color: #8B929A;
+}
+td {
+    padding: 2rem;
+    min-width: 100px;
+    width: 20%;
+    height: 300px;
+	text-align: center;
+}
+table {
+    padding: 2rem;
+    border: 2px #8B929A;
+}
